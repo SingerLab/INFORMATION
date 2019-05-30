@@ -9,7 +9,7 @@ Please start adding useful information on resources for Singer Lab Data Analysis
     InvC/Singer -> ```luna:/ifs/assets/socci/Data/Singer/```
 
 - Singer Lab work directories and databases
-    SingerS -> ```luna:/home/socci/Work/Users/SingerS/```
+    SingerS -> ```juno:/work/singer/```
 
     CRDB -> ```luna:/home/socci/Work/Users/SingerS/CRDB.LIMS/dumps```
 
