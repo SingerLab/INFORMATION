@@ -37,6 +37,8 @@ Please start adding useful information on resources for Singer Lab Data Analysis
     - ```data/joint_wd_dd_grch37.50k.k50.annotated.hgnc.geneCN.rds```: cell annotations, and interpolated gene copy number data. i.e. matrix cells x genes (>5000 cells x 33000 genes + annotation columns)
     - ```data/joint_wd_dd_20k_supporting_data.rda```: color codes and supporting annotations for consistency
 
+- multiqc/
+    - ```multiqc/*html```: html summary output from multiqc
 
 ### Joint WD/DD single-cell aggregate 
 - Main directory ```juno:/work/singer/gularter/single-cell_cnv/joint_wd_dd_bulkeq/```    
